@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56e32d73-166b-4608-b6b5-0c9820866648" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time_tool.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <configuration name="go build wsy.person/rsaTool" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="rsaTool" />
       <working_directory value="$PROJECT_DIR$/" />
-      <parameters value="-opt=sign" />
+      <parameters value="-opt=time -time=1586488701" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="wsy.person/rsaTool" />
@@ -83,10 +83,10 @@
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="95" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585622333281">
+    <state x="95" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586404828137">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="95" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585622333281" />
+    <state x="95" y="157" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586404828137" />
     <state x="442" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585911254164">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -95,38 +95,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="482" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585040070057" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1585794780663">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1586408605425">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585794780663" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1585794780662">
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586408605425" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1586408605424">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585794780662" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1585794780662">
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586408605424" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1586408605422">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585794780662" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1585794780662">
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586408605422" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1586408605424">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585794780662" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1585206913241">
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586408605424" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586408605427">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585206913241" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1585206913240">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586408605427" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1586408605426">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585206913240" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1585206913240">
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586408605426" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1586408605426">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585206913240" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1585206913241">
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586408605426" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1586408605427">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585206913241" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586408605427" />
     <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1585048774094">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -137,7 +137,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/main.go</url>
-          <line>32</line>
+          <line>38</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
